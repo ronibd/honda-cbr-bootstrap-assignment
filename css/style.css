@@ -1,0 +1,14 @@
+.gray-scale {
+  filter: grayscale(100%);
+}
+.user-image {
+  height: 100%;
+  width: 50%;
+  border-radius: 50%;
+}
+header{
+    background-color: #264653;
+}
+.gray-scale:hover{
+    filter: contrast(100%);
+}
